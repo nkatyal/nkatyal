@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nkatyal
-- 🌱 I’m currently a graduate student at Carnegie Mellon University
-- 👀 I’m interested in training and deployment of large scale machine learning systems.
+- 🌱 I’m a member of technical staff at Oracle working on vector search.
+- 👀 I’m interested in neural information retrieval and infrastructure for billion-vector search.
 
 
 <!---
